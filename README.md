@@ -21,7 +21,7 @@ Helpful to start the Git first time
 12. git push origin main  ####### Push code from origin to main 
 
  
-For change in the README.md file 
+############ For change in the README.md file 
 
 modify file in Notepad and save at same location in local 
 In terminal 
@@ -32,7 +32,12 @@ In terminal
 4. git commit -m "msg............"
 5. git push origin main 
 
+######### making new branch 
 
+1. git branch new_branch ### new_branch is branch name 
+2. git checkout new_branch 
+3. git add file name
+4. git commit -m "this is first file to be commited in new branch"
 
 
     
