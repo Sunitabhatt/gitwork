@@ -1,0 +1,6 @@
+######### making new branch 
+
+1. git branch new_branch ### new_branch is branch name 
+2. git checkout new_branch 
+3. git add file name
+4. git commit -m "this is first file to be commited in new branch"
