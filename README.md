@@ -21,4 +21,18 @@ Helpful to start the Git first time
 12. git push origin main  ####### Push code from origin to main 
 
  
+For change in the README.md file 
+
+modify file in Notepad and save at same location in local 
+In terminal 
+1. git status #### It will show in the modification in the README.md file 
+2. there will be two option restore or add 
+3. git restore README.md ##### file will restore 
+3. git add README.md #### add the modify file 
+4. git commit -m "msg............"
+5. git push origin main 
+
+
+
+
     
